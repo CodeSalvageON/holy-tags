@@ -1,0 +1,18 @@
+rosary{
+  color: black;
+  cursor: default;
+  pointer-events: none;  
+}
+
+rosary:link{
+  color: black;
+  text-decoration: none;
+}
+
+confession{
+  all: revert;
+}
+
+.blue{
+  color: blue;
+}
