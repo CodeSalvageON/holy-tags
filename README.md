@@ -21,4 +21,8 @@ Holy Tags that make your website a little more secure.
 
 ## How to use Holy Tags
 Put this in your `<head>` tag somewhere...
-``
+`
+<link href="https://holy-tags.codesalvageon.repl.co/src/css/holy.min.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://holy-tags.codesalvageon.repl.co/src/scripts/script.min.js"></script>
+`
