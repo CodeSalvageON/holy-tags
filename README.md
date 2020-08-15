@@ -16,3 +16,9 @@ Holy Tags that make your website a little more secure.
  -HTML Removal Function
 
 ## What Holy Tags can't do
+ -Automatically remove HTML elements from the first form value from multiple forms
+ -Block <script> tags using the <crucifix> tag
+
+## How to use Holy Tags
+Put this in your `<head>` tag somewhere...
+``
