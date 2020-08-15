@@ -30,4 +30,5 @@ Put this in your `<head>` tag somewhere...
 
 ### Holy tags and where to use them
 `<rosary>`- Removes all links (anchor tags) inside the rosary.
+<br>
 `<rosary><a href="">This link will be removed, turning it into plain text.</a></rosary>`
