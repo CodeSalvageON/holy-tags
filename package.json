@@ -1,0 +1,20 @@
+{
+    "name": "holy_tags",
+    "description": "Holy Tags to make your website a little more secure.",
+    "version": "1.0.0",
+    "main": "./src/scripts/script.min.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/CodeSalvageON/holy-tags.git"
+    },
+    "keywords": [],
+    "author": "CodeSalvageON",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/CodeSalvageON/holy-tags/issues"
+    },
+    "homepage": "ttps://github.com/CodeSalvageON/holy-tags"
+  }
