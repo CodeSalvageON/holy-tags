@@ -27,3 +27,7 @@ Put this in your `<head>` tag somewhere...
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://holy-tags.codesalvageon.repl.co/src/scripts/script.min.js"></script>
 ```
+
+### Holy tags and where to use them
+`<rosary>`- Removes all links (anchor tags) inside the rosary.
+`<rosary><a href="">This link will be removed, turning it into plain text.</a></rosary>`
