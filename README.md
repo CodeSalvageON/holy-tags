@@ -38,3 +38,10 @@ Put this in your `<head>` tag somewhere...
 ```
 <confession><p style="color: blue">This paragraph tag was supposed to be blue, but the confession tag has removed the style attribute.</p></confession>
 ```
+<br>
+### Holy functions
+Using the `bless()` function, we can remove HTML tags from a string.
+```
+bless('<script>alert('test');</script>');
+//returns alert('test'); as plain text
+```
