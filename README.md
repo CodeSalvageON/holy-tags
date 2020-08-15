@@ -29,6 +29,10 @@ Put this in your `<head>` tag somewhere...
 ```
 
 ### Holy tags and where to use them
-`<rosary>`- Removes all links (anchor tags) inside the rosary.
+`<rosary>`- Removes all links (anchor tags) inside the rosary tag.
 <br>
 `<rosary><a href="">This link will be removed, turning it into plain text.</a></rosary>`
+<br>
+`<confession>`- Removes all attributes of the elements inside the confession tag.
+<br>
+`<confession><p style="color: blue">This paragraph tag was supposed to be blue, but the confession tag has removed the style attribute.</p></confession>`
