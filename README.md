@@ -35,4 +35,6 @@ Put this in your `<head>` tag somewhere...
 <br>
 `<confession>`- Removes all attributes of the elements inside the confession tag.
 <br>
-`<confession><p style="color: blue">This paragraph tag was supposed to be blue, but the confession tag has removed the style attribute.</p></confession>`
+```
+<confession><p style="color: blue">This paragraph tag was supposed to be blue, but the confession tag has removed the style attribute.</p></confession>
+```
